@@ -172,7 +172,7 @@ Este sistema puede extenderse con:
 
 ---
 
-## Licencia
-
 Uso académico y educativo.  
 Autor: Tomas Romero Baylac
+![edcbc713-b9d6-46cb-a07e-6b2b6d91bd54](https://github.com/user-attachments/assets/9c00393e-6754-448b-8491-e639a9887665)
+
